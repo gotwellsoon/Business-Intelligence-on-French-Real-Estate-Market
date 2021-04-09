@@ -1,4 +1,4 @@
-# Business-Intelligence-on-French-Real-Estate-Market
+# Business Intelligence on French Real Estate Market
 
 ![real_estate](https://www.vmcdn.ca/f/files/shared/spotlight-photos/181017-guelphtodayoct18-01.jpg;w=960)
 
